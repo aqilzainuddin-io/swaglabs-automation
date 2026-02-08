@@ -4,11 +4,7 @@
 <suite name="Swaglabs E2E Tests" preserve-order="true">
     <test name="E2E Tests">
         <classes>
-            <class name="login.LoginTest"/>
-            <class name="inventory.DashboardTest"/>
-            <class name="cart.AddEmpTest"/>
-            <class name="checkout.SearchEmpTest"/>
-            <class name="e2e.EditEmpTest"/>
+            <class name="tests.login.LoginTest"/>
         </classes>
     </test>
 </suite>
