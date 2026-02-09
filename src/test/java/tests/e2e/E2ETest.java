@@ -13,8 +13,6 @@ import setup.EnvReader;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.fasterxml.jackson.annotation.JsonTypeInfo.As;
-
 import org.testng.annotations.BeforeMethod;
 
 
